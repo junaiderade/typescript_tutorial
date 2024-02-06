@@ -1,0 +1,12 @@
+{
+  "name": "typescript_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run-ts": "tsc ts_for_js.ts && node ts_for_js.js && rm ts_for_js.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
